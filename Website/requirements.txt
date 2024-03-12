@@ -1,1 +1,15 @@
+app==0.0.1
+click
+flash==1.0.3
+Flask
+Flask-Login==0.6.3
+Flask-SQLAlchemy==3.1.1
+greenlet==3.0.3
+itsdangerous
+Jinja2
+MarkupSafe
+path==16.10.0
+SQLAlchemy==2.0.28
+typing_extensions==4.10.0
+Werkzeug
 
